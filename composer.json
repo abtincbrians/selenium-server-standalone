@@ -5,6 +5,6 @@
     "keywords": [],
     "type": "library",
     "bin": [
-        "selenium-server-standalone.jar"
+        "bin/selenium-server-standalone.jar"
     ]
 }
