@@ -2,5 +2,9 @@
     "name": "abtincbrians/selenium-server-standalone",
     "type": "library",
     "description": "Selenium Standalone Server",
-    "keywords": []
+    "keywords": [],
+    "type": "library",
+    "bin": [
+        "selenium-server-standalone.jar"
+    ]
 }
