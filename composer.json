@@ -1,0 +1,7 @@
+{
+    "name": "abtincbrians/selenium-standalone-server",
+    "type": "library",
+    "description": "Selenium Standalone Server",
+    "keywords": [],
+    "minimum-stability": "dev"
+}
